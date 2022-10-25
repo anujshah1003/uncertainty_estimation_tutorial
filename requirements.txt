@@ -1,0 +1,4 @@
+tensorflow-probability
+edward2
+matplotlib
+plotly
