@@ -21,7 +21,7 @@ pip install "git+https://github.com/google/uncertainty-baselines.git#egg=uncerta
 ```
 Installing other dependencies
 ```bash
-cd UncertaintyEstimation_tfp
+cd uncertainty_estmation_tutorial
 pip install -r requirements.txt
 ```
 
