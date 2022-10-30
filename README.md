@@ -3,6 +3,14 @@ This repository attempts to understand the concepts of uncertainty estimation.
 
 ***I think it is much more interesting to live not knowing than to have answers that might be wrong - Richard P Feynman***
 
+## Tutorials
+1. Understanding weight matrices of different ensemble approches for uncertainty estimation: Deep Ensemble vs Batch Ensemble vs Rank-1 BNN
+  - Video Part-1: [Understanding](https://www.youtube.com/watch?v=KZNrVt8Vspc&t=401s) 
+  - Video Part-2: [Demo Example](https://www.youtube.com/watch?v=4t4eEAGRJ8s)
+  - Code: [comparison_parameter_deep_batch_rank_1_ens.ipynb](https://github.com/anujshah1003/uncertainty_estimation_tutorial/blob/main/comparison_parameter_deep_batch_rank_1_ens.ipynb)
+  - Docs: [different_ensemble_comparison.pdf](https://github.com/anujshah1003/uncertainty_estimation_tutorial/blob/main/supporting_docs/different_ensemble_comparison.pdf)
+
+
 ## Installation
 
 Tensorflow
