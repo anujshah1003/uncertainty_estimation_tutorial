@@ -39,6 +39,7 @@ pip install -r requirements.txt
 1. [Deep Ensemble](https://arxiv.org/abs/1612.01474)
 2. [Batch Ensemble](https://arxiv.org/abs/2002.06715)
 3. [Rank-1 BNN](https://arxiv.org/pdf/2005.07186.pdf)
+4. [On calibration of modern neural networks](https://arxiv.org/abs/1706.04599)
 
 ## Code References
 * Uncertainty Baseline: https://github.com/google/uncertainty-baselines
