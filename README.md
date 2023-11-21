@@ -11,7 +11,7 @@ This repository attempts to understand the concepts of uncertainty estimation.
   - Docs: [different_ensemble_comparison.pdf](https://github.com/anujshah1003/uncertainty_estimation_tutorial/blob/main/supporting_docs/different_ensemble_comparison.pdf)
 
 2. Model Calibration
-  - Medium Blog: [A step towards trustworthy and reliable AI]([https://www.youtube.com/watch?v=KZNrVt8Vspc&t=401s](https://medium.com/@anuj_shah/model-calibration-a-step-towards-trustworthy-and-reliable-ai-1181f2fef2c3)
+  - Medium Blog: [A step towards trustworthy and reliable AI](https://www.youtube.com/watch?v=KZNrVt8Vspc&t=401s](https://medium.com/@anuj_shah/model-calibration-a-step-towards-trustworthy-and-reliable-ai-1181f2fef2c3)
   - Code: [notebooks](https://github.com/anujshah1003/uncertainty_estimation_tutorial/tree/model_calibration/model_calibration/notebooks)
 ## Installation
 
